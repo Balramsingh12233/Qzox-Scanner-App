@@ -4,7 +4,9 @@ A premium, high-performance Flutter-based mobile application designed for profes
 
 > [!IMPORTANT]
 > **Privacy Note**: The source code for this project is currently private to prevent unauthorized distribution and to protect sensitive integration logic (API keys, security protocols, etc.). This repository serves as a portfolio piece to demonstrate the app's features, architecture, and technology stack.
-> Get Source Code: https://www.codester.com/balramsingh/
+>
+>
+>  Get Source Code: (https://www.codester.com/items/65126/qzox-scanner-premium-neumorphic-document-scanner?ref=balramsingh)
 
 ---
 
